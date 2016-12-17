@@ -1,2 +1,3 @@
 # portfolio-project
-Portfolio project
+
+open index.html in browser
